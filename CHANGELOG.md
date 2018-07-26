@@ -5,6 +5,8 @@ on [Keep a CHANGELOG](http://keepachangelog.com/). This project adheres to
 
 ## Unreleased
 
+## [1.3.0] - 2018-07-26
+
 ### Changed
 - Upgrade framework to version 4.3.3
 - Updated common-bom version to 1.28.0
